@@ -19,10 +19,21 @@ using Association Rules (Apriori) type of unsupervised learning technique that c
 
 **📒Dataset:**
 
+| BillNo | Itemname                            | Quantity | Date             | Price |
+| ------ | ----------------------------------- | -------- | ---------------- | ----- |
+| 536365 | WHITE HANGING HEART T-LIGHT HOLDER  | 6        | 01.12.2010 08:26 | 2     |
+| 536365 | WHITE METAL LANTERN                 | 6        | 01.12.2010 08:26 | 3     |
+| 536365 | CREAM CUPID HEARTS COAT HANGER      | 8        | 01.12.2010 08:26 | 2     |
+| 536365 | KNITTED UNION FLAG HOT WATER BOTTLE | 6        | 01.12.2010 08:26 | 3     |
+| 536365 | RED WOOLLY HOTTIE WHITE HEART.      | 6        | 01.12.2010 08:26 | 3     |
 
 **📒Variabel:**
 
-- `invoice_no`: 
+- `BillNo`
+- `Itemname`
+- `Quantity`
+- `Date`
+- `Price` 
 
 ## 🧵Result
 
